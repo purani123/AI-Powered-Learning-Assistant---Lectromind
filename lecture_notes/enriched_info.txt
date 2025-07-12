@@ -1,0 +1,4 @@
+**External Enrichment:**
+💡 Wikipedia on 'energy': Energy (from Ancient Greek  ἐνέργεια (enérgeia) 'activity') is the quantitative property that is transferred to a body or to a physical system, recognizable in the performance of work and in the form of heat and light.
+💡 Wikipedia on 'wind': Wind is the natural movement of air or other gases relative to a planet's surface.
+💡 Wikipedia on 'turbine': A turbine ( or ) (from the Greek τύρβη, tyrbē, or Latin turbo, meaning vortex) is a rotary mechanical device that extracts energy from a fluid flow and converts it into useful work.

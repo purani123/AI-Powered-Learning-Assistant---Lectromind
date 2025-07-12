@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#A383E6"       # Lavender/Purple for interactive accents (buttons, sliders, links)
+backgroundColor = "#1A1A1A"    # Very dark grey/near-black for the main background
+secondaryBackgroundColor = "#1F2F4F" # A deep, subtle navy blue for the sidebar and component backgrounds
+textColor = "#E0E0E0"          # A soft light grey/silver for the main text
+font = "sans serif"            # Use "sans serif" for a clean, modern look. You can also try "serif" or "monospace".
+
+[server]
+# To prevent issues with port already in use during rapid restarts
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+maxUploadSize = 200 # MB, adjust if your audio files are larger than 200MB

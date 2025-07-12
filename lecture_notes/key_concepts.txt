@@ -1,0 +1,9 @@
+- **Wind Energy**: The process of converting the kinetic energy of wind into useful forms of power, like electricity. It is a clean, inexhaustible resource that does not emit greenhouse gases.
+
+- **Wind Turbine**: A device with rotor blades, a nacelle (housing a gearbox and generator), and a tower used to capture wind energy and convert it to electricity. A turbine can produce power for 20 to 25 years.
+
+- **Offshore Wind Farms**: Wind power installations located in marine environments that benefit from stronger, more consistent winds and avoid land use conflicts. They are more expensive to install and maintain due to harsh conditions.
+
+- **Kinetic Energy**: The energy of the wind which is captured and converted into useful forms of power. Wind itself is caused by the uneven heating of the Earth's surface.
+
+- **Installed Wind Capacity**: A measure of the amount of wind power a country has, used to identify global leaders in the field. Countries like China, the United States, Germany, and India lead the world in this metric.
